@@ -1,4 +1,3 @@
-blueprint:
   name: verapdf-stack
   services:
     - name: file-storage-database
